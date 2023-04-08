@@ -1,3 +1,7 @@
+![Example 1.1](https://github.com/KooperL/tkinterAstar/blob/main/gallery/example%201.1.png "Example 1.1")
+![Example 1.2](https://github.com/KooperL/tkinterAstar/blob/main/gallery/example%201.2.png "Example 1.2")
+![Example 1.3](https://github.com/KooperL/tkinterAstar/blob/main/gallery/example%201.3.png "Example 1.3")
+
 # Important
 
 This app uses `python 3.x`.
